@@ -1,0 +1,30 @@
+#app {
+  text-align: center;
+  padding: 20px;
+}
+
+#bingo {
+  display: inline-block;
+}
+
+#board {
+  display: inline-block;
+  width: 250px;
+  height: 250px;
+  background-color: #dddddd;
+  margin: 20px;
+}
+
+#board .cell {
+  display: inline-block;
+  width: 50px;
+  height: 50px;
+  border: 1px solid rgba(0, 0, 0, 0.8);
+  text-align: center;
+  line-height: 48px;
+}
+
+#panel .randomNumber {
+  font-size: 300%;
+}
+/*# sourceMappingURL=main.css.map */
